@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 typedef long long ll;
-
 int main()
 {
 	int total_num;
