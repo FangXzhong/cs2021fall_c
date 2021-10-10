@@ -18,5 +18,8 @@
     <ClCompile Include="cs2021fall_C++.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1425A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
