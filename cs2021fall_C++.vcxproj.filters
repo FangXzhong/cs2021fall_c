@@ -24,5 +24,14 @@
     <ClCompile Include="algorithm\Page4_SelectionSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="cpp_Learning\myfirst.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp_Learning\getinfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp_Learning\sqrt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
