@@ -5,7 +5,6 @@ using namespace std;
 int n,m;
 int a[100005];
 int On[100005], Off[100005];
- 
 int main()
 {
     scanf("%d%d",&n, &m);
